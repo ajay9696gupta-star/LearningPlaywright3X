@@ -15,3 +15,18 @@ console.log(x1); // Output: 24
 x1 /= 4; // x1 = x1 / 4;
 console.log(x1); // Output: 6   
 
+
+let value = 10;        // Number
+console.log(value);
+console.log(typeof value);
+
+value = "Ajay";        // String
+console.log(value);
+console.log(typeof value);
+
+value = true;   // Boolean
+console.log(value);
+console.log(typeof value);
+
+
+
