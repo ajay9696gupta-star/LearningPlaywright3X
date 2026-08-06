@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../chapter_02_Js_Concept"
+		},
+		{
+			"path": "../chapter_03_Identifier"
+		},
+		{
+			"path": "../chapter_04_Literal"
+		},
+		{
+			"path": "../chapter_05_Operator"
+		},
+		{
+			"path": "../chapter_06_Statement"
+		},
+		{
+			"path": "../chapter_07_Switch"
+		},
+		{
+			"path": "../chapter_08_UserInput"
+		},
+		{
+			"path": "../chapter_09_Loops"
+		},
+		{
+			"path": "../chapter_10_Arrays"
+		}
+	]
+}
